@@ -1,0 +1,50 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 20px;
+    text-align: center;
+    color: steelblue;
+    font-weight: 900;
+}
+h2{
+    font-size: 15px;
+    text-align: center;
+    color: steelblue;
+ 
+}
+.cajita{
+    padding: 10px;
+    padding-bottom: 1px;
+    margin: auto;
+    border: 10px steelblue;
+    text-align: justify;
+    width: 500px;
+    
+}
+p{
+    text-align: justify;
+    line-height: 1.5;
+    
+}
+.cajita img {
+padding: 15px  ;
+margin: 55px;
+border: 1px solid steelblue;
+width: 70%;
+}
+.cajita2 img {
+    padding: 15px  ;
+    margin: 55px;
+    border: 1px solid steelblue;
+    width: 70%;
+    }
+.cajita2{
+    padding: 10px 10px;
+    margin: auto;
+    border: 10px steelblue;
+    width: 500px;
+   
+ 
+  
+}
